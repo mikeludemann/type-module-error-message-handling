@@ -1,0 +1,23 @@
+{
+  "name": "type-module-error-message-handling",
+  "version": "1.0.0",
+  "description": "A simple code handling for error messages with type modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/type-module-error-message-handling.git"
+  },
+  "keywords": [],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/type-module-error-message-handling/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/type-module-error-message-handling#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
